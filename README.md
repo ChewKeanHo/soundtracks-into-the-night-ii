@@ -1,17 +1,31 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Into The Night II | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+First soundtrack making, first music video making, first YouTube upload.
+This was a small side-quest project to push my limits outside my tech
+boundaries. This was mainly to enable my first experiences and building
+up my content pipelines making sure they work as expected.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #dance #party #femalevocal
 
-DO a $(stat TO/FILE) then remove unnecessary info here
+  File: Into-The-Night-II.mp3
+  Size: 5500928         Blocks: 10744      IO Block: 4096   regular file
+Access: 2025-07-28 20:46:46.583772885 +0800
+Modify: 2025-07-20 11:53:31.950217595 +0800
+Change: 2025-07-20 11:53:31.950217595 +0800
+ Birth: 2025-07-20 11:53:31.838217373 +0800
+
+On Published Date: 2025-04-19
+On YouTube since : 2025-04-19
 ```
 
+[YouTube](https://www.youtube.com/watch?v=YPaH3ZB_LpQ) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
+[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
@@ -32,9 +46,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Into The Night II
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-into-the-night-ii
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------

@@ -1,29 +1,29 @@
 TITLE
-🎧 | [MUSIC TITLE HERE]
+🎧 | Into The Night II
 
 
 
 
 DESCRIPTION
-[DESCRIPTION HERE THAT CAN BE POSTED ON SOCIAL MEDIA]
+First soundtrack making, first music video making, first YouTube upload. This was a small side-quest project to push my limits outside my tech boundaries. This was mainly to enable my first experiences and building up my content pipelines making sure they work as expected.
 
-(Sing-Along Lyrics Are Available As Subtitles!)
-
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #dance #party #femalevocal
 
 
 § COLLECTIONS
 ━━━━━━━━━━━━
-Album Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
-Genre Playlist: https://youtube.com/playlist?list=[ALBUM_LIST_HERE]
+Album Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAinh-J--p5xHe-Wprpvf8xJ
+Genre Playlist: https://youtube.com/playlist?list=PLRci7HJoTcAjlFJMmnpXUO6EWpG8b5ety
 
 
 § METADATA
 ━━━━━━━━━━
 Music made in: https://www.udio.com/
+Video made in: https://vizzy.io/
 Project by: (Holloway) Chew, Kean Ho
+Lyrics by: (Holloway) Chew, Kean Ho + AI translation assistance
 Music License: (Holloway) Chew, Kean Ho's Proprietary License (https://doi.org/10.5281/zenodo.13767361)
-Repository: [REPOSITORY_HERE]
+Repository: https://github.com/ChewKeanHo/soundtracks-into-the-night-ii
 
 
 § FAQ
@@ -66,4 +66,4 @@ I just see A.I. is the next step forward and I want it to augment me; not resist
 
 
 TAGS
-electronicmusic, soundtrack
+electronicmusic, dancemusic, partymusic, party, female vocalist, background music, soundtrack, music
